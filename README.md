@@ -12,7 +12,7 @@ A simple and interactive **Calorie Calculator** app built with **Streamlit**. Th
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/calorie-calculator.git
+git clone https://github.com/Hanzllasoomro/calorie-calculator.git
 cd calorie-calculator
 ```
 
